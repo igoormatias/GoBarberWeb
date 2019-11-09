@@ -3,15 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    
     "history": "^4.10.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "reactotron-react-js": "^3.3.6"
   },
   "devDependencies": {
-    "babel-eslint": "10.0.2",
+   
     "babel-plugin-root-import": "^6.4.1",
     "customize-cra": "^0.6.1",
     "eslint": "^6.3.0",
