@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "history": "^4.10.1",
+    "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
@@ -11,7 +12,6 @@
     "reactotron-react-js": "^3.3.6"
   },
   "devDependencies": {
-   
     "babel-plugin-root-import": "^6.4.1",
     "customize-cra": "^0.6.1",
     "eslint": "^6.3.0",
